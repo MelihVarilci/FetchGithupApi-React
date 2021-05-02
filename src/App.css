@@ -1,0 +1,18 @@
+.navbar{
+  /* ClassName verdiğimiz div'lerin css özelliklerini bu dosyada belirrtik,
+  kullanmak istediğimiz js dosyalarında ise import './App.css'; diyerek
+  bu dosyamızı kullanabilir hale getirdik. */
+  padding: 20px;
+  background-color: rgb(223, 224, 222);
+}
+
+.search{
+  display: flex;
+  justify-content: center;
+  padding: 20px 0;
+}
+
+.card{
+  display: flex;
+  justify-content: center;
+}
